@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Tiburcio</h1>
 <h3 align="center">A passionate software developer from México</h3>
 
-- 🔭 I’m currently working on **Swift Project**
+- 🔭 I’m currently working on **SWIFT Project at Foxconn**
 
 - 🌱 I’m currently learning **DataScience and robots**
 
